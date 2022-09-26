@@ -18,6 +18,7 @@ func main() {
 	// 	firstName: "Chirag",
 	// 	lastName:  "Gupta"}
 	// fmt.Println(chirag)
+
 	// var axl person
 	// fmt.Println(axl)
 	// fmt.Printf("%+v\n", chirag)
@@ -25,6 +26,7 @@ func main() {
 	// axl.firstName = "Axl"
 	// axl.lastName = "Heimdallson"
 	// fmt.Println(axl)
+
 	chirag := person{
 		firstName: "chirag",
 		lastName:  "Gupta",
