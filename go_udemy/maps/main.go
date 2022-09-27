@@ -5,8 +5,6 @@ import (
 )
 
 func main() {
-	// map in go, object in js, dict in python
-	// image.png
 
 	//METHOD 1:
 	// colorHexMap := map[string]string{
